@@ -24,11 +24,9 @@ Obviously... the specifications are really poor 😅. Don't worry, we work with 
 Apart from implementing this minimum product, there's no specific requirements:
 - you're free to go for a monolith or an api/client architecture
 - the backend code can be in ruby, python, js with your framework of choices
-- the publications should be seeded in a mini database
+- the [10K publications](https://github.com/Poulpes/search_test/files/7239136/publications_dump.csv) should be seeded in a mini database
 - the frontend must be in React.js but you're free to pickup a "framework" if you want
 - Regarding the UX/UI, you're free. Don't lose 10h to chose a font but try to deliver a clear, simple and nice interface. You can chose an UI Libray or come up with your own set of components
-
-Ressources: You'll find here a CSV file with [10K instagram publications](https://github.com/Poulpes/search_test/files/7239136/publications_dump.csv) to seed in your app.
 
 In terms of deliverable, you're free, again. The minimum requirements are:
 - we should be able to check/use the product on a given "production" url
